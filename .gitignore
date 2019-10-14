@@ -1,0 +1,5 @@
+# dependencies
+/node_modules
+
+# url mongodb
+src/mongodbUrl.js
